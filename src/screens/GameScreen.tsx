@@ -5,7 +5,6 @@ import { ActionButton } from '../components/ActionButton';
 import { EventCard } from '../components/EventCard';
 import { FeedbackToast } from '../components/FeedbackToast';
 import { getAvailableActions } from '../data/actions';
-import { TIME_SLOTS } from '../data/events';
 import type { GameState } from '../types/game';
 import type { ActionType } from '../types/game';
 

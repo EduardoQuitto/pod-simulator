@@ -13,7 +13,6 @@ function App() {
     state,
     currentSituation,
     currentTime,
-    isGameOver,
     ending,
     duration,
     setScreen,
